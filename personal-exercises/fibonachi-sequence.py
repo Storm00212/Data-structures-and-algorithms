@@ -8,7 +8,7 @@ for i in range(n):
     prev2 = current
     
     for j in range(current):
-        print('*', end='')
+        print('*\n', end='')
     
    
     
