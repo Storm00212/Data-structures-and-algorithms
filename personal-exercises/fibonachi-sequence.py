@@ -8,7 +8,7 @@ for i in range(n):
     prev2 = current
     
     for j in range(current):
-        print('*\n', end='')
-    
-   
-    
+        print('*', end='')
+    print()  # Add a line break after printing the asterisks
+
+
